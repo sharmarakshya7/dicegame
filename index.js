@@ -1,5 +1,3 @@
-alert("Hello");
-
 
 var randomNumber1 = Math.floor(Math.random()* 6)+1;
 var randomimagesrc = "./images/dice" + randomNumber1 + ".png";
